@@ -1,6 +1,6 @@
 # question-paper-generator
 
-#Start Command
+# Start Command
 
 npm i
 npm start
